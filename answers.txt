@@ -1,0 +1,3 @@
+What is a remote repository?
+
+a remote repositorary is where versions of a project are saved other than ones local machine
